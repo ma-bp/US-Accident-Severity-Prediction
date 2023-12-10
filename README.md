@@ -2,7 +2,7 @@
 
 Kaggle Dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
-# Overview of the Dataset:
+Overview of the Dataset:
 
 The US Accidents (2016-2021) dataset from 
 Kaggle is a nationwide car accident dataset that 
