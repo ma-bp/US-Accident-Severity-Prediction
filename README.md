@@ -38,7 +38,7 @@ Due to the dataset being large, it is segmented into
 5. POI – Point of Interest Attributes (13 
 features)
 
-Explaratory Analysis and Comparative Study of Machine Learning Algorithms are exhibited utilising US-Accident-Severity-Prediction dataset.
+Explaratory Analysis and Comparative Study of Machine Learning Algorithms are exhibited by utilising US-Accident-Severity-Prediction dataset.
 
 Algorithms used: 
 
